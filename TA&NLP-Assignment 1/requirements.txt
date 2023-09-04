@@ -1,0 +1,7 @@
+re
+pandas
+nltk
+collections
+wordcloud
+matplotlib
+numpy
